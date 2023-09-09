@@ -27,7 +27,7 @@ function cargarProductosCarrito() {
         producto.nombre
       }">
         <div class="carrito-producto-titulo">
-            <small>Título</small>
+            <small>Nombre</small>
             <h3>${producto.nombre}</h3>
         </div>
         <div class="carrito-producto-cantidad">
@@ -73,13 +73,12 @@ function actualizarBotonesEliminar() {
 function eliminarDelCarrito(e) {
   Toastify({
     text: "Producto eliminado",
-    duration: 3000,
-    close: true,
+    duration: 2000,
     gravity: "top",
     position: "right",
     stopOnFocus: true,
     style: {
-      background: "linear-gradient(to right, #4b33a8, #785ce9)",
+      background: "linear-gradient(to right, #f0c8c8, #f7b6b6)",
       borderRadius: "2rem",
       textTransform: "uppercase",
       fontSize: ".75rem",
