@@ -83,7 +83,7 @@
     "id": "9",
     "nombre": "Tarta de frutillas",
     "precio": 12000,
-    "imagen": "./img/index1.jpg",
+    "imagen": "./img/IMG-20230131-WA0098.jpg",
     "categoria": {
       "nombre": "Pies",
       "id": "pies"
@@ -93,7 +93,7 @@
     "id": "10",
     "nombre": "Torta multicolor",
     "precio": 14000,
-    "imagen": "./img/wsp-img2.jpg",
+    "imagen": "./img/IMG-20230131-WA0099.jpg",
     "categoria": {
       "nombre": "Tortas",
       "id": "tortas"
