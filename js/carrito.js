@@ -78,6 +78,7 @@ function eliminarDelCarrito(e) {
     position: "right",
     stopOnFocus: true,
     style: {
+      color: "#4e4d4d",
       background: "linear-gradient(to right, #f0c8c8, #f7b6b6)",
       borderRadius: "2rem",
       textTransform: "uppercase",
